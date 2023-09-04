@@ -1,0 +1,34 @@
+{
+    "name": "nodejs",
+    "version": "1.0.0",
+    "description": "Discord.js v14 temel (boş) altyapı.",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node ."
+    },
+    "keywords": [
+        "v14",
+        "discord.js",
+        "discordjs",
+        "discord",
+        "bot",
+        "discord bot",
+        "basic",
+        "bos",
+        "temel",
+        "altyapi"
+    ],
+    "author": {
+        "name": "Alper Bayram",
+        "url": "https://discord.com/users/1128265219978825788/"
+    },
+    "license": "Apache-2.0",
+    "dependencies": {
+        "@discordjs/voice": "^0.16.0",
+        "discord.js": "^14.13.0",
+        "dotenv": "^16.3.1",
+        "fs": "^0.0.1-security"
+    }
+}
