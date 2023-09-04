@@ -2,17 +2,6 @@
 
 Bu repo, Discord.js'in v14 sürümü için temel bir altyapı içermektedir. Projede ECMAScript 6 (ES6) kullanılmıştır.
 
-Aşağıdaki klasör veya dosyaların isimlerini değiştirmeyin:
-
-📁 `commands`\
-📁 `events`\
-📁 `node_modules`\
-📄 `config.js`\
-📄 `index.js`\
-📄 `package-lock.json`\
-📄 `package.json`\
-📄 `print.js`
-
 ## 🚀 Başlangıç
 
 Botun yapılandırmasını `config.js` dosyası üzerinden gerçekleştirebilirsiniz. Botun tokenini `.env` dosyasından ayarlayın.
