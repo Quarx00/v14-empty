@@ -37,5 +37,5 @@ Botun yapılandırmasını `config.js` dosyası üzerinden gerçekleştirebilirs
    npm install
    ```
     ```
-   node index.js
+   npm start
    ```
