@@ -28,7 +28,7 @@ Botun yapılandırmasını `config.js` dosyası üzerinden gerçekleştirebilirs
    pkg install git nodejs -y
    ```
     ```
-   git clone https://github.com/alper-dev/REPO_NAME
+   git clone https://github.com/alper-dev/v14-basic
    ```
     ```
    cd v14-basic
